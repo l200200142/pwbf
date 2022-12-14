@@ -1,4 +1,36 @@
 .myBG{
     height: 100vh;
-    background: tomato;
+    background: url("../assets/components/1.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 100%;
+    font: weight 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 1;
+    color: whitesmoke;
+    justify-content: center;
+    font-style: italic;
+}
+
+.title2{
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 1;
+    color: greenyellow;
+    justify-content: center;
+}
+
+.text-lp{
+    
+    justify-content: center;
+    align-items: center;
 }

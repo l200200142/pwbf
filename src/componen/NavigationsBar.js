@@ -3,12 +3,12 @@ import {Navbar, Container, Nav} from "react-bootstrap"
 const NavigationBar = () =>{
     return(
         <div>
-            <Navbar>
+            <Navbar className="border " bg="white">
                 <Container>
-                <Navbar.Brand>TUTOR KAK</Navbar.Brand>
+                <Navbar.Brand>Restaurant React JS</Navbar.Brand>
                     <Nav>
-                        <Nav.Link>TRENDING</Nav.Link>
-                        <Nav.Link>SUPER HERO</Nav.Link>
+                        <Nav.Link>PROFIL</Nav.Link>
+                        <Nav.Link>DAFTAR MENU</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
