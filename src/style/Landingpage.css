@@ -36,3 +36,26 @@
     justify-content: center;
     align-items: center;
 }
+
+.tlsn{
+    color: black;
+    display: flex;
+    text-decoration-line: none;
+
+}
+
+.bd{
+    background:whitesmoke;
+}
+
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(235, 195, 64);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border: 10cm;
+    text-align: center;
+}

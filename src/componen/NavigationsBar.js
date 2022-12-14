@@ -1,14 +1,22 @@
-import {Navbar, Container, Nav} from "react-bootstrap"
+import {Navbar, Container, Nav, NavLink} from "react-bootstrap"
+import { Link } from "react-router-dom"
+import React from "react"
+// import Page from "./page"
 
 const NavigationBar = () =>{
     return(
         <div>
-            <Navbar className="border text-white " bg="white">
+            <Navbar className="bd">
                 <Container >
                 <Navbar.Brand>Restaurant React JS</Navbar.Brand>
-                    <Nav>
-                        <Nav.Link>PROFIL</Nav.Link>
-                        <Nav.Link>DAFTAR MENU</Nav.Link>
+                    <Nav className="tlsn">
+                        <Link className="tlsn" to='/'>
+                            Home
+                        </Link>
+                        <NavLink></NavLink>
+                        <Link className="tlsn" to='page'>
+                            About us
+                        </Link>
                     </Nav>
                 </Container>
             </Navbar>
