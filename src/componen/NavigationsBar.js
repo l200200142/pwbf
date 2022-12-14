@@ -3,8 +3,8 @@ import {Navbar, Container, Nav} from "react-bootstrap"
 const NavigationBar = () =>{
     return(
         <div>
-            <Navbar className="border " bg="white">
-                <Container>
+            <Navbar className="border text-white " bg="white">
+                <Container >
                 <Navbar.Brand>Restaurant React JS</Navbar.Brand>
                     <Nav>
                         <Nav.Link>PROFIL</Nav.Link>
