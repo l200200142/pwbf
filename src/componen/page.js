@@ -11,24 +11,21 @@ function Page(){
             <Container>
                 <Row>
                     <Col>
-                    <div className="text-kiri">Name</div><br/>
-                    <div className="text-kiri">Achmad Jamaah Firdaus</div><br/>
-                    <div className="text-kiri">Muhhammad Akmal Nafis</div><br/>
-                    <div className="text-kiri">Khoirur Rozikin</div><br/>
-                    <div className="text-kiri">4</div><br/>
-                    <div className="text-kiri">5</div><br/>
-                    <div className="text-kiri">6</div><br/>
-                    <div className="text-kiri">7</div><br/>
-                    </Col>
-                    <Col>
-                    <div className="text-kanan2">NIM</div><br/>
-                    <div className="text-kanan">L200200142</div><br/>
-                    <div className="text-kanan">L200200149</div><br/>
-                    <div className="text-kanan">L200200153</div><br/>
-                    <div className="text-kanan">L200200</div><br/>
-                    <div className="text-kanan">L200200</div><br/>
-                    <div className="text-kanan">L200200</div><br/>
-                    <div className="text-kanan">L200200</div><br/>
+                    <div className="text-about">Restaurant React JS</div><br/>
+                    <div className="text-about">
+                       "Kami merupakan Restaurant khas nasi kebuli premium yang sudah berdiri sejak tahun 1976.
+                       Didirikan oleh ibu X yang diwariskan hingga anak cucu, kini telah dipegang oleh ibu Y sebagai pewaris sah generasi ke 2.
+                       Saat ini kami telah memiliki 7 cabang yang tersebar di barbagai penjuru Indonesia dan akan terus berkembang nanti nya"
+                    </div>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <div className="text-about">
+                        Open: 
+                    </div><br/>
+                    <div className="text-open">Every day, 08:00 AM ~ 22:00 PM</div><br/>
+                    <div className="text-open">Friday, 01:00 PM ~ 22:00 PM</div>
                     </Col>
                 </Row>
             </Container>

@@ -50,7 +50,7 @@
 }
 
 .footer{
-    margin-top: 25rem;
+    margin-top: 26.5rem;
     padding: 1rem;
     background-color: rgb(235, 195, 64);
     position:absolute;
@@ -67,7 +67,30 @@
     font-style: italic;
     padding: 100px;
     position: absolute;
-    left: 10cm;
+    left: 7cm;
+
+}
+
+.text-about{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: fixed;
+    left: 3cm;
+    right: cm;
+    text-align: left;
+
+}
+
+.text-open{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: fixed;
+    left: 5cm;
+    text-align: left;
 
 }
 
@@ -95,7 +118,7 @@
     font-style: italic;
     padding: 100px;
     position: fixed;
-    right: 13cm; 
+    right: 15cm; 
 }
 
 .harga-kanan{
@@ -104,7 +127,7 @@
     font-style: italic;
     padding: 100px;
     position: fixed;
-    right: 9cm; 
+    right: 12cm; 
 }
 
 .menu-kiri{
