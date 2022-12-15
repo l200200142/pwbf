@@ -17,6 +17,10 @@ const NavigationBar = () =>{
                         <Link className="tlsn" to='page'>
                             About us
                         </Link>
+                        <NavLink></NavLink>
+                        <Link className="tlsn" to='daftarmenu'>
+                            Daftar Menu
+                        </Link>
                     </Nav>
                 </Container>
             </Navbar>

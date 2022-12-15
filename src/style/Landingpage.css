@@ -16,7 +16,7 @@
 
 .title{
     font-weight: 600;
-    font-size: 20px;
+    font-size: 40px;
     line-height: 1;
     color: whitesmoke;
     justify-content: center;
@@ -26,10 +26,10 @@
 
 .title2{
     font-weight: 600;
-    font-size: 2rem;
+    font-size: 1,5rem;
     line-height: 1;
     color: rgb(255, 255, 255);
-    justify-content: center;
+    justify-content:center;
 }
 
 .text-lp{
@@ -50,13 +50,77 @@
 }
 
 .footer{
-    margin-top: 1rem;
+    margin-top: 25rem;
     padding: 1rem;
     background-color: rgb(235, 195, 64);
-    position: fixed;
-    bottom: 0;
-    /* left: 0; */
+    position:absolute;
+    bottom: 100%;
+    left: 0;
     width: 100%;
     /* border: 10cm; */
     text-align: center;
+}
+
+.text-kiri{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: absolute;
+    left: 10cm;
+
+}
+
+.text-kanan{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: absolute;
+    right: 10cm; 
+}
+
+.text-kanan2{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: absolute;
+    right: 11.8cm; 
+}
+
+.menu-kanan{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: fixed;
+    right: 13cm; 
+}
+
+.harga-kanan{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: fixed;
+    right: 9cm; 
+}
+
+.menu-kiri{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: fixed;
+    left: 6cm; 
+}
+
+.harga-kiri{
+    font-size: 20px;
+    color: whitesmoke;
+    font-style: italic;
+    padding: 100px;
+    position: fixed;
+    left: 15cm; 
 }
