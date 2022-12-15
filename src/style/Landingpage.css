@@ -2,6 +2,7 @@
     height: 100vh;
     background: url("../assets/components/1.jpg");
     background-size: cover;
+    
 }
 
 
@@ -50,15 +51,39 @@
 }
 
 .footer{
-    margin-top: 26.5rem;
+    margin-top: 26.9rem;
     padding: 1rem;
     background-color: rgb(235, 195, 64);
-    position:absolute;
-    bottom: 100%;
-    left: 0;
-    width: 100%;
+    position:fixed;
+    /* bottom: 100%; */
+    /* left: 0; */
+    /* width: 100%; */
     /* border: 10cm; */
+    /* text-align: center; */
+}
+
+.footer1{
+    margin-top: 3rem;
+    padding: 1rem;
+    background-color: rgb(235, 195, 64);
+    position:fixed;
+    /* bottom: 100%; */
+    left: 0;
+    /* width: 100%; */
+    border: 10cm;
     text-align: center;
+}
+
+.footer3{
+    margin-top: 37.4rem;
+    padding: 1rem;
+    background-color: rgb(235, 195, 64);
+    position:fixed;
+    /* bottom: 100%; */
+    /* left: 0; */
+    /* width: 100%; */
+    /* border: 10cm; */
+    /* text-align: center; */
 }
 
 .text-kiri{
@@ -118,7 +143,7 @@
     font-style: italic;
     padding: 100px;
     position: fixed;
-    right: 15cm; 
+    right: 12cm; 
 }
 
 .harga-kanan{
@@ -127,7 +152,7 @@
     font-style: italic;
     padding: 100px;
     position: fixed;
-    right: 12cm; 
+    right: 9.5cm; 
 }
 
 .menu-kiri{
@@ -145,5 +170,5 @@
     font-style: italic;
     padding: 100px;
     position: fixed;
-    left: 15cm; 
+    left: 16cm; 
 }

@@ -15,7 +15,7 @@ function Page(){
                     <div className="text-about">
                        "Kami merupakan Restaurant khas nasi kebuli premium yang sudah berdiri sejak tahun 1976.
                        Didirikan oleh ibu X yang diwariskan hingga anak cucu, kini telah dipegang oleh ibu Y sebagai pewaris sah generasi ke 2.
-                       Saat ini kami telah memiliki 7 cabang yang tersebar di barbagai penjuru Indonesia dan akan terus berkembang nanti nya"
+                       Saat ini kami telah memiliki 7 cabang yang tersebar di berbagai penjuru Indonesia dan akan terus berkembang nanti nya"
                     </div>
                     <br/>
                     <br/>
@@ -32,9 +32,9 @@ function Page(){
             <div>
                 <Navbar bg="yellow" className="footer">
                     <Container>
-                        <Navbar.Text>Jl. Petemon IV No.32-A, RT 014/RW 008 (Gang Sebelah Bank BCA), Kel. Petemon, Kec. Sawahan, Kota Surabaya, Jawa Timur, 60252</Navbar.Text>
+                        <Navbar.Text style={{color:'black'}}>Jl. Petemon IV No.32-A, RT 014/RW 008 (Gang Sebelah Bank BCA), Kel. Petemon, Kec. Sawahan, Kota Surabaya, Jawa Timur, 60252</Navbar.Text>
                         <Nav>
-                            <NavLink href="https://wa.me/0851722249015">FAQs</NavLink>
+                        <NavLink style={{color:'black'}} href="https://wa.me/0851722249015">WhatsApp</NavLink>
                         </Nav>
                     </Container>
                 </Navbar>

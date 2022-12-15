@@ -1,0 +1,27 @@
+[
+    {
+     "id": 1,
+     "question": "Apakah bisa di pesan secara online ?",
+     "answer": "Anda dapat memesan nya melalui GoFood dan ShopeeFood "
+    },
+    {
+     "id": 2,
+     "question": "Apakah ada Ruang private untuk keperluan rapat dsb ?",
+     "answer": "Ruang privasi ada di lantai 2 dan harus melakukan pemesanan minimal 1 hari sebelum acara"
+    },
+    {
+     "id": 3,
+     "question": "Dimanakah saya dapat mengakses website restaurant ini ?",
+     "answer": "Kunjungi website kami di www.RestauransReactJS.co.id"
+    },
+    {
+     "id": 4,
+     "question": "apakah saya bisa memesan makanan untuk acara hajatan dsb ?",
+     "answer": "Bisa, datang ke restaurant langsung atau hubungi nomor WhatsApp kami"
+    },
+    {
+     "id": 5,
+     "question": "Dimanakah saya dapat mengajukan komplain ?",
+     "answer": "Hubungi kami di nomor WhatsApp kami"
+    }
+   ]
